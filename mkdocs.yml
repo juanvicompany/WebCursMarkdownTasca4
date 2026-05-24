@@ -1,0 +1,8 @@
+site_name: Xarxes
+docs_dir: md
+site_dir: docs
+nav:
+  - Home: index.md
+  - SA1 Connectoritzacio cables de pars trenats: connectoritzacioParsTrenats/ConnectoritzacioParsTrenats.md
+#theme: readthedocs
+
