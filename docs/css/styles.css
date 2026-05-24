@@ -1,0 +1,34 @@
+/* Exemple de CSS personalitzat */
+/*Ho he comentat perqué no funciona bé el mode clar/oscur*/
+/*
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+*/
+
+/*
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  background-color: #f5f7fa;
+  color: #2c3e50;
+
+  line-height: 1.6;
+  font-size: 17px;
+}
+
+h1,
+h2,
+h3 {
+  color: #1565c0;
+}
+
+h1 {
+  border-bottom: 2px solid #1565c0;
+  padding-bottom: 0.3rem;
+}
+
+h2 {
+  margin-top: 2rem;
+}
+*/
